@@ -16,7 +16,7 @@ The Todo List App is a simple and user-friendly application designed to help use
 ## Installation
 
 ### Prerequisites
-- Flutter SDK installed ([Download Flutter](https://flutter.dev/docs/get-started/install)).
+- Flutter SDK installed at flutter.dev
 - Dart SDK (comes bundled with Flutter).
 
 
